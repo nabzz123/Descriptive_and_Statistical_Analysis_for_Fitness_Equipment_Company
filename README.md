@@ -1,0 +1,2 @@
+# Descriptive_and_Statistical_Analysis_for_Fitness_Equipment_Company
+To understand customer demographics and purchasing behaviour of a fitness equipment manufacturer
